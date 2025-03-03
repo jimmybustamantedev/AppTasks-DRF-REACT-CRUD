@@ -18,3 +18,4 @@ urlpatterns = [
     path('schema/', SpectacularAPIView.as_view(), name='schema'),  # Esquema OpenAPI JSON (para herramientas externas)
 ]
 
+ 
